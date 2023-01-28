@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1674410386 source:/home/tutu/codeblocks-programs/ArvoreB-ArturCarvalho-DeivisonCosta/src/header.cpp
+	"header.h"
+
+1674410462 /home/tutu/codeblocks-programs/ArvoreB-ArturCarvalho-DeivisonCosta/include/header.h
+	"serializable.h"
+	<iostream>
+
+1674410451 /home/tutu/codeblocks-programs/ArvoreB-ArturCarvalho-DeivisonCosta/include/serializable.h
+	<string>
+
+1674410466 source:/home/tutu/codeblocks-programs/ArvoreB-ArturCarvalho-DeivisonCosta/src/serialCurrency.cpp
+	"serialCurrency.h"
+
+1674410457 /home/tutu/codeblocks-programs/ArvoreB-ArturCarvalho-DeivisonCosta/include/serialCurrency.h
+	"serializable.h"
+	<iostream>
+
+1674414167 source:/home/tutu/codeblocks-programs/ArvoreB-ArturCarvalho-DeivisonCosta/main.cpp
+	"bTree.h"
+	"serialCurrency.h"
+
+1674414104 /home/tutu/codeblocks-programs/ArvoreB-ArturCarvalho-DeivisonCosta/include/bTree.h
+	<fstream>
+	<type_traits>
+	<vector>
+	"serializable.h"
+	"header.h"
+	"node.h"
+
+1674411753 /home/tutu/codeblocks-programs/ArvoreB-ArturCarvalho-DeivisonCosta/include/node.h
+	<type_traits>
+	<iostream>
+	"serializable.h"
+
